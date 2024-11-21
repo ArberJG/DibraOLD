@@ -1,0 +1,741 @@
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=3PDvdIFv" />
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.dibra.org/xmlrpc.php">
+
+<title>Shoqata Atdhetare Dibra &#8211; The Dibra Community Organization</title>
+<meta name="robots" content="max-image-preview:large"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id="jetpack-sharing-buttons-style-inline-css" type="text/css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<script type="text/javascript" id="photocrati_ajax-js-extra">
+/* <![CDATA[ */
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="give-js-extra">
+/* <![CDATA[ */
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.dibra.org/wp-json/"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dibra.org/xmlrpc.php?rsd"/>
+<meta name="generator" content="WordPress 6.5"/>
+<meta name="generator" content="Give v3.6.1"/>
+	<style>img#wpstats{display:none}</style>
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.dibra.org/wp-content/uploads/2016/04/cropped-index003.jpg?fit=270%2C270&amp;ssl=1"/>
+<style type="text/css">/* Typography */body {font-style: normal;font-weight: 400;font-size: 15px;line-height: 1.5;font-family: Georgia;letter-spacing: 0px;text-align: left;color: #0f0d0e;}h1 {font-style: normal;font-weight: 700;font-size: 24px;line-height: 1.1;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h2 {font-style: normal;font-weight: 700;font-size: 20px;line-height: 1.1;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h3 {font-style: normal;font-weight: 700;font-size: 18px;line-height: 1.2;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h4 {font-style: normal;font-weight: 700;font-size: 16px;line-height: 1.3;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h5 {font-style: normal;font-weight: 700;font-size: 18px;line-height: 1.4;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}h6 {font-style: normal;font-weight: 700;font-size: 13px;line-height: 1.4;font-family: Montserrat;letter-spacing: 0px;text-align: inherit;color: #303043;}@media (min-width: 992px) {h1 { font-size: 80px; }h2 { font-size: 60px; }h3 { font-size: 40px; }h4 { font-size: 30px; }h5 { font-size: 20px; }h6 { font-size: 16px; }}.breadcrumbs__items {font-style: normal;font-weight: 400;font-size: 14px;line-height: 1.5;font-family: Montserrat;letter-spacing: 0px;text-align: ;}a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.not-found .page-title { color: #298ffc; }a:hover { color: #2f2f42; }mark, ins {color: #ffffff;background-color: #298ffc;}::-webkit-input-placeholder { color: #0f0d0e; }::-moz-placeholder{ color: #0f0d0e; }:-moz-placeholder{ color: #0f0d0e; }:-ms-input-placeholder{ color: #0f0d0e; }.site-logo {font-style: normal;font-weight: 700;font-size: 20px;font-family: Georgia;}.site-logo__link,.site-logo__link:hover,.site-logo__link:active,.site-logo__link:visited {color: #303043;}/* Invert Color Scheme */.invert { color: #ffffff; }.invert h1 { color: #ffffff; }.invert h2 { color: #ffffff; }.invert h3 { color: #ffffff; }.invert h4 { color: #ffffff; }.invert h5 { color: #ffffff; }.invert h6 { color: #ffffff; }.invert a:hover { color: #303043; }/* Header */.header-container {background-color: #ffffff;background-image: url(/web/20240404222356im_/https://www.dibra.org/);background-repeat: repeat;background-position: center top;background-attachment: scroll;}.top-panel {background-color: #eef4fa;}.boxed-wrap {max-width: 1200px;margin: 0 auto;}/* Content */@media (min-width: 1200px) {.container {max-width: 1200px;}}.widget ul li {color: #298ffc;}/* invert color */.invert .widget ul li, .invert .widget ul li a {color: #ffffff;}.invert .widget ul li a:hover {color: #303043;}.invert .widget select{color: #303043;}/*--------------------------------------------------------------# Widget calendar--------------------------------------------------------------*/.widget_calendar .calendar_wrap caption{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.widget_calendar .calendar_wrap th{color: #298ffc;}.widget_calendar .calendar_wrap tr td a::before{background-color: #eef4fa;}/* invert color */.invert .widget_calendar .calendar_wrap caption{color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}.invert .widget_calendar .calendar_wrap th{color: #303043;}.invert .widget_calendar .calendar_wrap a{color: #ffffff;}.invert .widget_calendar .calendar_wrap a:hover{color: #303043;}.invert .widget_calendar .calendar_wrap tr td a::before{background-color: ;}/*--------------------------------------------------------------# Widget Tag Cloud--------------------------------------------------------------*/.widget_tag_cloud .tagcloud a{color: #fff;}.widget_tag_cloud .tagcloud a:hover{color: #ffffff;border-color: #298ffc;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}/* invert color */.invert .widget_tag_cloud .tagcloud a{color: #ffffff;}.invert .widget_tag_cloud .tagcloud a:hover{color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}/*--------------------------------------------------------------# Widget Recent Posts--------------------------------------------------------------*/.widget_recent_entries ul li a, .widget_recent_comments ul li>a{color: #2f2f42;}.widget_recent_entries ul li a:hover, .widget_recent_comments ul li>a:hover{color: #298ffc;}.widget_recent_entries ul li .post-date::before{color: rgba(41,143,252,0.3);}/* invert color */.invert .widget_recent_entries ul li a, .invert .widget_recent_comments ul li>a{color: #303043;}.invert .widget_recent_entries ul li a:hover, .invert .widget_recent_comments ul li>a:hover{color: #ffffff;}.invert .widget_recent_entries ul li .post-date::before{color: rgba(41,143,252,0.3);}.widget-taxonomy-tiles__content::before{background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.widget-taxonomy-tiles__inner:hover .widget-taxonomy-tiles__content::before {background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(48,48,67) 100%);background: linear-gradient(to right, #303043 0%, rgb(48,48,67) 100%);}.widget-taxonomy-tiles__content a:hover{color: #298ffc;-webkit-transition: all 0.3s ease;transition: all 0.3s ease;}.widget-image-grid__content::before{background: #303043;}.widget-image-grid__content .widget-image-grid__link:hover {color: #eef4fa;}.widget-image-grid__content .widget-image-grid__link i{color: #eef4fa;}.widget-image-grid__content .widget-image-grid__title a:hover {color: #298ffc;}.swiper-pagination .swiper-pagination-bullet{background-color: #298ffc;}.swiper-button-next, .swiper-button-prev{color: #ffffff;background: #303043;}.swiper-container .swiper-button-next i, .swiper-container .swiper-button-prev i {color: #ffffff;}.swiper-button-next:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.swiper-button-prev:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);}.footer-area .swiper-wrapper .post .inner{background-color: #303043;}.wild_ride-smartslider .sp-arrows .sp-arrow{color: #ffffff;background: #303043;}.wild_ride-smartslider .sp-arrows .sp-next-arrow:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.wild_ride-smartslider .sp-arrows .sp-previous-arrow:hover{color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to left, #298ffc 0%, rgb(16,118,227) 100%);}.sp-image-container {position: relative;}.sp-image-container:after {content: "";position: absolute;left: 0;top: 0;right: 0;bottom: 0;background: rgba(48,48,67,0.5);}.instagram__cover { background-color: #298ffc; }.invert .instagram__cover { background-color: #ffffff; }.invert .instagram__cover:before { color: #298ffc; }.widget_fbw_id .loader {border-top: 1.1em solid rgba(41,143,252,0.2);border-right: 1.1em solid rgba(41,143,252,0.2);border-bottom: 1.1em solid rgba(41,143,252,0.2);border-left: 1.1em solid #298ffc;}.subscribe-block__input { color: #0f0d0e; }.widget_tf_track_kickstarter .tf-tracker {background: rgba(48,48,67,0.76);color: #ffffff;}.tf-tracker h1,.tf-tracker h2,.tf-tracker h3,.tf-tracker h4,.tf-tracker h5,.tf-tracker h6 {color: #ffffff;}.tf-tracker-value {color: #298ffc;font-weight: 700;}.sidebar-primary .widget_give_forms_widget,.sidebar-secondary .widget_give_forms_widget,.before-content-area .widget_give_forms_widget,.after-content-area .widget_give_forms_widget,.before-loop-area .widget_give_forms_widget,.after-loop-area .widget_give_forms_widget {background-color: #298ffc;}.widget_give_forms_widget .widget-title {color: #ffffff;}.give-btn {background: #303043;color: #ffffff;}.give-btn:hover {background: rgb(10,10,29);color: #ffffff;}.top-panel__message .material-icons {color: #298ffc;}.top-panel__menu-list li a,.top-panel__menu-list li a:active,.top-panel__menu-list li a:visited {color: #298ffc;}.top-panel__menu-list li.current-menu-item a,.top-panel__menu-list li.current_page_item a,.top-panel__menu-list li a:hover {color: #0f0d0e;}.search-form .search-form__field {color: #0f0d0e;font-family: Georgia;}.search-form .search-form__field::-webkit-input-placeholder { color: #0f0d0e; }.search-form .search-form__field::-moz-placeholder { color: #0f0d0e; }.search-form .search-form__field:-moz-placeholder { color: #0f0d0e; }.search-form .search-form__field:-ms-input-placeholder { color: #0f0d0e; }.top-panel .search-form .search-form__submit {color: #303043;}.top-panel .search-form .search-form__submit:hover {color: #298ffc;}.social-list a,.social-list a:hover,.social-list a:active,.social-list a:visited,.share-btns__link,.share-btns__link:hover,.share-btns__link:active,.share-btns__link:visited {color: #298ffc;}.social-list a:hover::before,.share-btns__link:hover {background: #eef4fa;}.footer-area .social-list li > a:hover::before { background: #303043; }.social-list--footer li > a:hover { color: #ffffff; }.social-list--footer li > a:hover::before { background-color: rgba(255,255,255,0.1); }.main-navigation ul.menu > li > a,.main-navigation ul.menu > li > a:visited,.main-navigation ul.menu > li > a:active {color: #303043;}.menu-item_description {color: #0f0d0e;}.main-navigation ul.menu > li > a:before {background: #298ffc;}.main-navigation ul.menu > li:hover > a,.main-navigation ul.menu > li.menu-hover > a,.main-navigation ul.menu > li.current_page_item > a,.main-navigation ul.menu > li.current-menu-item > a,.main-navigation ul.menu > li.current_page_ancestor > a:hover {color: #298ffc;}.main-navigation ul ul a {color: #0f0d0e;}.main-navigation ul.sub-menu > li > a:hover,.main-navigation ul.sub-menu > li.menu-hover > a,.main-navigation ul.sub-menu > li.current_page_item > a,.main-navigation ul.sub-menu > li.current-menu-item > a,.main-navigation ul.sub-menu > li.current_page_ancestor > a:hover {color: #298ffc;}.main-navigation ul.sub-menu {background: #eef4fa;}/* Small menu. */.menu-toggle .material-icons {color: #298ffc;}.site-footer {background-color: #ffffff;}.footer-area-wrap {background-color: #298ffc;}.site-footer a:hover, .site-footer a:focus,.site-footer a:active { color: #0f0d0e; }.footer-menu__items li.current-menu-item a,.footer-menu__items li.current_page_item a {color: #0f0d0e;}.btn,.comment-form .submit,.wpcf7-submit,.post-password-form label + input {color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.btn:hover,.comment-form .submit:hover,.wpcf7-submit:hover,.post-password-form label + input:hover {color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}.btn:focus,.wpcf7-submit:focus,.comment-form .submit:focus {box-shadow: 0 0 8px #298ffc;}.btn.btn-secondary,.invert .btn {background: #303043;}.btn.btn-secondary:hover,.invert .btn:hover {background: rgb(10,10,29);color: #ffffff;}blockquote {color: #298ffc;}blockquote cite {color: #303043;}.single-format-quote blockquote {color: #ffffff;background-color: #303043;}.single-format-quote blockquote:before,.single-format-quote blockquote cite {color: #298ffc;}ul, ol {color: #303043;}code {color: #ffffff;background: #298ffc;}.post__cats a,.sticky__label {color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.post__cats a:hover{color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}.invert .post__cats a:hover{color: #298ffc;background: #ffffff;}.post .material-icons{color: rgba(41,143,252,0.3);}.post-author,.posted-by,.post-featured-content {color: #303043;}.post-featured-content.format-quote.invert {color: #ffffff;background-color: #303043;}.post__tags {color: #298ffc;}.post-author__holder {background-color: #298ffc;}.post-author__title a:hover {color:#303043;}.post-format-link {background: rgba(41,143,252,0.8);}.post-format-quote {color: #ffffff;}.post-format-quote:before,.post-format-quote cite,#cancel-comment-reply-link {color: #298ffc;}#cancel-comment-reply-link:hover {color: #303043;}.pagination a.page-numbers {color: #303043;}.pagination a.page-numbers:hover,.pagination span.page-numbers.current {color: #298ffc;background: #eef4fa;}.pagination .page-numbers.next,.pagination .page-numbers.prev {color: #ffffff;background: #298ffc;background: -webkit-linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);background: linear-gradient(to right, #298ffc 0%, rgb(16,118,227) 100%);}.pagination .page-numbers.next:hover,.pagination .page-numbers.prev:hover {color: #ffffff;background: #303043;background: -webkit-linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);background: linear-gradient(to right, #303043 0%, rgb(23,23,42) 100%);}#toTop {color: #ffffff;background: #fff;}#toTop:before {color: #298ffc;}#toTop span{color: #303043;}#toTop:hover {background: #303043;}#toTop:hover span{color: #ffffff;}.tm-folding-cube .tm-cube:before {background-color: #298ffc;}</style></head>
+
+<body class="home blog do-etfw give-test-mode give-page hfeed layout-fullwidth blog-default position-one-right-sidebar sidebar-1-4"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.dibra.org/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20240404222356" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20240404222356*/https://www.dibra.org/" title="See a list of every capture for this URL">103 captures</a>
+          <div class="r" title="Timespan for captures of this URL">26 Jul 2002 - 04 Apr 2024</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="725" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="c" id="displayMonthEl" title="You are here: 22:23:56 Apr 04, 2024">APR</td>
+            <td class="f" nowrap="nowrap">May</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 22:23:56 Apr 04, 2024">04</td>
+            <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="c" id="displayYearEl" title="You are here: 22:23:56 Apr 04, 2024">2024</td>
+            <td class="f" nowrap="nowrap">2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+<p>
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam_urls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archiveteam_urls" target="_new"><span class="wm-title">Archive Team: URLs</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+<script type="text/javascript">//<![CDATA[
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<div class="page-preloader-cover"><div class="tm-folding-cube">
+        <div class="tm-cube1 tm-cube"></div>
+        <div class="tm-cube2 tm-cube"></div>
+        <div class="tm-cube4 tm-cube"></div>
+        <div class="tm-cube3 tm-cube"></div>
+      </div></div><div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<header id="masthead" class="site-header minimal" role="banner">
+		<div class="top-panel">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-form__field" placeholder="Search …" value="" name="s" title="Search for:"/>
+	</label>
+	<button type="submit" class="search-form__submit btn"><i class="material-icons">search</i></button>
+</ul></div></div>
+		</div><!-- .top-panel -->
+
+		<div class="header-container">
+			<div class="header-container_wrap">
+				<div class="header-container__flex">
+</ul></div>	<div class="site-branding">
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+		<button class="menu-toggle" aria-controls="main-menu" aria-expanded="false"><i class="material-icons">menu</i></button>
+</ul>	</nav><!-- #site-navigation -->
+	</div>
+			</div>
+		</div><!-- .header-container -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article><article class="swiper-slide post hentry"><div class="inner">
+	<div class="content-wrapper">
+		<header class="entry-header">
+		</header>
+		<div class="entry-content">
+	</div>
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<span class="post__comments"><i class="material-icons">mode_comment</i>0</span>
+		</div>
+	</footer>
+</div></article></div><div id="swiper-carousel-660f2880ef9f9-pagination" class="swiper-pagination"></div></div><div id="swiper-carousel-660f2880ef9f9-next" class="swiper-button-next button-next"><i class="material-icons">navigate_next</i></div><div id="swiper-carousel-660f2880ef9f9-prev" class="swiper-button-prev button-prev"><i class="material-icons">navigate_before</i></div></div></aside></section>
+	
+	<div class="container">
+
+		
+		<div class="row">
+
+			<div id="primary" class="col-xs-12 col-md-9">
+
+				
+				<main id="main" class="site-main" role="main">
+
+					
+	<div class="posts-list posts-list--default one-right-sidebar">
+
+	<article id="post-3121" class="posts-list__item card hentry post-3121 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Shoqata Atdhetare Dibra ju informon se kete vit Pikniku Dibran do te mbahet me 30 Maj 2021 e Diel (Memorial Weekend). Pasi qe jemi ende ne kohe pandemie numbri do te jete i kufizuar dhe lusim te gjithe te pranishmit te respektojne masat ANTI-Covid. –&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3103" class="posts-list__item card hentry post-3103 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			U mbajt takimi i Kryetarit të Dibrës me komunitetin dibran në AmerikDje, e diel 18 Prill, në ambientet e hotel Hilton në Staten Island, Kryetari i Dibrës, dr. Hekuran Duka shpalosi punën e tij për dy vitet e fundit që kur ka marrë postin e&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3100" class="posts-list__item card hentry post-3100 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Duke ju uruar për shumë vite muajin e shejntë të Ramazanit, Shoqata Atdhetare Dibra ju njofton se tradita për të ndihmuar familjet në nevoje për këtë muaj të bekuar vazhdon, dhe ky aksion humanitar do të fillojë prej nesër (e Martë, 13 Prill, 2021). Nuk&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3094" class="posts-list__item card hentry post-3094 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Rritmi i punës për regjistrimin e popullatës vazhdon njëlloj si në fillimin e saj! Falenderojmë pa masë grupin përkrahës nga Dibra të cilët vullnetarisht bashkëpunojnë me Shoqatën Atdhetare Dibra, ku vazhdojnë për c’do ditë nëpërmjet telefoanatave nga Dibra, të kontaktojnë komunitetin tonë në Amerik, për&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3086" class="posts-list__item card hentry post-3086 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Edhe në krizën nga epidemia e COVID-19 , ne gjindemi pranë familjeve në nevojë! Ndihma për familjet në nevojë nuk ka munguar dhe nuk do të mungojë nga SHAD, dega e bamirësisë nën udhëheqësen e Bekim Paçuku, ndihmoi 25 familjeve në nevojë duke ju siguruar&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3076" class="posts-list__item card hentry post-3076 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Duke marrë parasysh kushtet e tanishme të mësimdhënies ku për shkak të Pandemisë me Covid-19 gati të gjithë nxënësit në botë kanë kaluar në mësimin në distancë (online), Shoqata Atdhetare DIBRA si gjithmonë edhe kësaj radhe mendoi për nxënësit e shkollës të cilët kanë nevojë&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3065" class="posts-list__item card hentry post-3065 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Përfundon sezoni i ekipit të shpëtimtarëve për sezonin veror &#8211; 2020 Me datë 25 Gusht 2020, përfunduam sezonin e katërt me ekipin e shpëtimtarëve në liqenin e Dibrës. Me këtë rast falemnderojmë shpëtimtarët: Valdet Çeliku dhe Jon Batku për punën e bërë edhe këtë sezon&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3062" class="posts-list__item card hentry post-3062 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Shoqata Atdhetare Dibra edhe këtë vit do të marri përsipër të aktivizojë ekipin e shpëtimtarëve gjatë sezonit të verës në liqenin e Dibrës në bashkëpunim me Kryqin e Kuq &#8211; Dibër. Duke pasur parasysh rëndësinë e prezencës të ekipit të shpëtimtarëve në bregun e liqenit&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3059" class="posts-list__item card hentry post-3059 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Vazhdon ndihma për Dibrën! Për gjatë muajit të Ramazanit, Shoqata Atdhetare Dibra, realizoi fazën e katërt që nga fillimi i situatës së COVID 19 në qytetin e Dibrës. Kësaj here për hir të muajit të Ramazanit, vazhduam traditën duke ndihmuar familjet në nevojë për këtë&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+<article id="post-3044" class="posts-list__item card hentry post-3044 post type-post status-publish format-standard has-post-thumbnail category-lajme-nga-dibra category-lajme-nga-shoqata category-lajmerime has-thumb">
+	<div class="post-list__item-content">
+
+		<figure class="post-thumbnail">
+
+		<header class="entry-header">
+
+		<div class="entry-content">
+			Sot u realizua ndihma e parë nga Shoqata Atdhetare Dibra për qytetin e Dibrës simbas sugjerimit nga Shtabi Operativ Komunal për Mbrojtje dhe Shpëtim- Komuna Dibër.- Për ç&#8217;do familje në qytetin e Dibrës, do të dhurohet qese për mbeturina (2923 paqeta * 10 copa në&hellip;		</div><!-- .entry-content -->
+
+		
+			<div class="entry-meta">
+
+		
+	</div>
+	<footer class="entry-footer">
+</article><!-- #post-## -->
+
+	</div><!-- .posts-list -->
+
+	
+	<nav class="navigation pagination" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<span class="page-numbers dots">&hellip;</span>
+	</nav>
+				</main><!-- #main -->
+
+				
+			</div><!-- #primary -->
+
+			
+			
+<aside id="sidebar-primary" class="col-xs-12 col-md-3 sidebar-primary widget-area" role="complementary"><aside id="categories-2" class="widget widget_categories"><h5 class="widget-title">Categories</h5>
+			<ul>
+</li>
+</li>
+</li>
+</li>
+</li>
+</li>
+</li>
+			</ul>
+
+			</aside><aside id="archives-2" class="widget widget_archive"><h5 class="widget-title">Archives</h5>
+			<ul>
+			</ul>
+
+			</aside><aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>April 2024</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr><td>1</td><td>2</td><td>3</td><td id="today">4</td><td>5</td><td>6</td><td>7</td>
+	</tr>
+	<tr>
+		<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+	</tr>
+	<tr>
+		<td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+	</tr>
+	<tr>
+		<td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+	</tr>
+	<tr>
+		<td>29</td><td>30</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside></aside>
+		</div><!-- .row -->
+
+		
+	</div><!-- .container -->
+
+	
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer default" role="contentinfo">
+		<div class="footer-area-wrap invert">
+	<div class="container">
+		<section id="footer-area" class="footer-area widget-area row">
+		<aside id="recent-posts-2" class="col-xs-12 col-sm-12 col-md-12 footer-area--centered widget widget_recent_entries">
+		<h5 class="widget-title">Recent Posts</h5>
+		<ul>
+											<li>
+									</li>
+					</ul>
+
+		</aside></section>	</div>
+</div>
+
+<div class="footer-container">
+	<div class="site-info">
+		<div class="site-info__flex">
+		</nav><!-- #footer-navigation -->
+	</div>
+</ul></div>		</div>
+	</div><!-- .site-info -->
+</div><!-- .container -->	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+</script>
+<script type="text/javascript" id="cherry-api-js-extra">
+/* <![CDATA[ */
+var wp_load_style = ["formidable.css","sbi_styles.css","jquery-swiper.css","jquery-slider-pro.css","wp-emoji-styles.css","wp-block-library.css","videopress-video-style.css","wp-mediaelement.css","jetpack-sharing-buttons-style.css","classic-theme-styles.css","global-styles.css","contact-form-7.css","tf-track-kickstarter.css","ngg_trigger_buttons.css","fancybox-0.css","fontawesome_v4_shim_style.css","fontawesome.css","nextgen_pagination_style.css","nextgen_basic_thumbnails_style.css","give-styles.css","give-donation-summary-style-frontend.css","blank-style.css","cherry-google-fonts.css"];
+var wp_load_script = ["cherry-api.js","jetpack-photon.js","jquery-swiper.js","jquery-slider-pro.js","contact-form-7.js","ngg_common.js","ngg_lightbox_context.js","fancybox-0.js","fancybox-1.js","fancybox-2.js","fontawesome.js","fontawesome_v4_shim.js","nextgen_basic_thumbnails_script.js","give.js","give-donation-summary-script-frontend.js","wild_ride-theme-script.js","cherry-post-formats.js","do-etfw-twitter-widgets.js","jetpack-stats.js"];
+var cherry_ajax = "ca8c36a9bb";
+var ui_init_object = {"auto_init":"false","targets":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+/* ]]> */
+</script>
+<script type="text/javascript" id="ngg_common-js-extra">
+/* <![CDATA[ */
+
+var galleries = {};
+galleries.gallery_ef1f8224fd4041645443544f30e6e2c0 = {"__defaults_set":null,"ID":"ef1f8224fd4041645443544f30e6e2c0","album_ids":[],"container_ids":["40"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"ef1f8224fd4041645443544f30e6e2c0","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_5c2bac4ce47c222e88e079260260017c = {"__defaults_set":null,"ID":"5c2bac4ce47c222e88e079260260017c","album_ids":[],"container_ids":["39"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"5c2bac4ce47c222e88e079260260017c","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_cae7d884640df37e4587b39ddfa2ed37 = {"__defaults_set":null,"ID":"cae7d884640df37e4587b39ddfa2ed37","album_ids":[],"container_ids":["38"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"cae7d884640df37e4587b39ddfa2ed37","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_d41084b07d79ea3cff71d400b5b6dc63 = {"__defaults_set":null,"ID":"d41084b07d79ea3cff71d400b5b6dc63","album_ids":[],"container_ids":["37"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"d41084b07d79ea3cff71d400b5b6dc63","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_e56905e1219aa6b99b15c4db2c526a65 = {"__defaults_set":null,"ID":"e56905e1219aa6b99b15c4db2c526a65","album_ids":[],"container_ids":["36"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"e56905e1219aa6b99b15c4db2c526a65","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+galleries.gallery_edf6196312b9cc409a9fbbf67c4ce060 = {"__defaults_set":null,"ID":"edf6196312b9cc409a9fbbf67c4ce060","album_ids":[],"container_ids":["35"],"display":null,"display_settings":{"display_view":"default-view.php","images_per_page":"20","number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":0,"ajax_pagination":0,"use_imagebrowser_effect":0,"template":"","display_no_images_error":1,"disable_pagination":0,"show_slideshow_link":1,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":"0","thumbnail_watermark":0,"ngg_triggers_display":"never","use_lightbox_effect":true},"display_type":"photocrati-nextgen_basic_thumbnails","effect_code":null,"entity_ids":[],"excluded_container_ids":[],"exclusions":[],"gallery_ids":[],"id":"edf6196312b9cc409a9fbbf67c4ce060","ids":null,"image_ids":[],"images_list_count":null,"inner_content":null,"is_album_gallery":null,"maximum_entity_count":500,"order_by":"sortorder","order_direction":"ASC","returns":"included","skip_excluding_globally_excluded_images":null,"slug":null,"sortorder":[],"source":"galleries","src":null,"tag_ids":[],"tagcloud":false,"transient_id":null};
+/* ]]> */
+</script>
+<script type="text/javascript" id="ngg_common-js-after">
+/* <![CDATA[ */
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+
+            var nggLastTimeoutVal = 1000;
+
+            var nggRetryFailedImage = function(img) {
+                setTimeout(function(){
+                    img.src = img.src;
+                }, nggLastTimeoutVal);
+
+                nggLastTimeoutVal += 500;
+            }
+/* ]]> */
+</script>
+<script type="text/javascript" id="give-donation-summary-script-frontend-js-extra">
+/* <![CDATA[ */
+var GiveDonationSummaryData = {"currencyPrecisionLookup":{"USD":2,"EUR":2,"GBP":2,"AUD":2,"BRL":2,"CAD":2,"CZK":2,"DKK":2,"HKD":2,"HUF":2,"ILS":2,"JPY":0,"MYR":2,"MXN":2,"MAD":2,"NZD":2,"NOK":2,"PHP":2,"PLN":2,"SGD":2,"KRW":0,"ZAR":2,"SEK":2,"CHF":2,"TWD":2,"THB":2,"INR":2,"TRY":2,"IRR":2,"RUB":2,"AED":2,"AMD":2,"ANG":2,"ARS":2,"AWG":2,"BAM":2,"BDT":2,"BHD":3,"BMD":2,"BND":2,"BOB":2,"BSD":2,"BWP":2,"BZD":2,"CLP":0,"CNY":2,"COP":2,"CRC":2,"CUC":2,"CUP":2,"DOP":2,"EGP":2,"GIP":2,"GTQ":2,"HNL":2,"HRK":2,"IDR":2,"ISK":0,"JMD":2,"JOD":2,"KES":2,"KWD":2,"KYD":2,"MKD":2,"NPR":2,"OMR":3,"PEN":2,"PKR":2,"RON":2,"SAR":2,"SZL":2,"TOP":2,"TZS":2,"UAH":2,"UYU":2,"VEF":2,"XCD":2,"AFN":2,"ALL":2,"AOA":2,"AZN":2,"BBD":2,"BGN":2,"BIF":0,"XBT":8,"BTN":1,"BYR":2,"BYN":2,"CDF":2,"CVE":2,"DJF":0,"DZD":2,"ERN":2,"ETB":2,"FJD":2,"FKP":2,"GEL":2,"GGP":2,"GHS":2,"GMD":2,"GNF":0,"GYD":2,"HTG":2,"IMP":2,"IQD":2,"IRT":2,"JEP":2,"KGS":2,"KHR":0,"KMF":2,"KPW":0,"KZT":2,"LAK":0,"LBP":2,"LKR":0,"LRD":2,"LSL":2,"LYD":3,"MDL":2,"MGA":0,"MMK":2,"MNT":2,"MOP":2,"MRO":2,"MUR":2,"MVR":1,"MWK":2,"MZN":0,"NAD":2,"NGN":2,"NIO":2,"PAB":2,"PGK":2,"PRB":2,"PYG":2,"QAR":2,"RSD":2,"RWF":2,"SBD":2,"SCR":2,"SDG":2,"SHP":2,"SLL":2,"SOS":2,"SRD":2,"SSP":2,"STD":2,"SYP":2,"TJS":2,"TMT":2,"TND":3,"TTD":2,"UGX":2,"UZS":2,"VND":1,"VUV":0,"WST":2,"XAF":2,"XOF":2,"XPF":2,"YER":2,"ZMW":2},"recurringLabelLookup":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" id="wild_ride-theme-script-js-extra">
+/* <![CDATA[ */
+/* ]]> */
+</script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"109822851\",\"post\":\"0\",\"tz\":\"0\",\"srv\":\"www.dibra.org\",\"j\":\"1:13.3\"}") ]);
+_stq.push([ "clickTrackerInit", "109822851", "0" ]);
+/* ]]> */
+</script>
+
+</body>
+</html>
+<!--
